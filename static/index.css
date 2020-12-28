@@ -207,7 +207,7 @@ nav{
 #profile_pic{
 	display: block;
 	margin:0 auto;
-
+        border-radius: 12px;
 	height: 340px;
 	width: 200px;
 	object-fit: cover;
