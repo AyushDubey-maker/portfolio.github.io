@@ -360,6 +360,7 @@ nav{
 
 #social_img{
 	width: 100%;
+	margin: 5px;
 }
 .post-wrapper{
 	display: grid;
@@ -514,6 +515,29 @@ nav{
 }
 @media screen and (max-width: 600px){
 	.typewriter{
-		font-size: 28px;
+		font-size: 30px;
+		
+		
 	}
 }
+@media screen and (max-width: 400px){
+	.typewriter{
+		font-size: 26px;
+		
+		
+	}
+}
+ #profile_pic:hover{
+
+	   cursor: pointer;
+	 
+   }
+   .icons li{
+	 display: inline;
+	 margin: 8px;
+   }
+ .icons li:hover{
+	cursor: pointer;
+ }
+  
+
